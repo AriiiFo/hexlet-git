@@ -1,4 +1,4 @@
 Hello, Hexlet! How are you?
 no code no pain
 experiment with amend
-\nМой проект на Go
+Мой проект на Go
